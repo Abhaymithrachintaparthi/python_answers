@@ -1,0 +1,3 @@
+name: Tina job: DevOps Engineer city: New York
+name: Tim job: Developer city: Sydney
+the country of second employee is Australia
