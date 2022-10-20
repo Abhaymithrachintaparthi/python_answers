@@ -44,3 +44,11 @@ h=hours.hour
 m=hours.minute
 s=hours.second
 print(f"Time to your Birthday is :{days} days and {h} hours {m} minutes {s} seconds")
+#output
+'''what is your year of your DOB: 2000
+what is your month of your DOB: 03
+what is your date of your DOB: 09
+2022-10-20
+2022-10-21 00:00:00
+Time to your Birthday is :140 days and 13 hours 35 minutes 39 seconds'''
+
