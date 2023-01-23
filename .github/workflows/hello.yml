@@ -6,4 +6,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: hello
-        run: python /home/runner/work/python_answers/python_answers/hello.py
+        run: python .github/workflows/helloworld.py
