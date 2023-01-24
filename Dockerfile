@@ -1,3 +1,3 @@
 FROM python
 
-CMD ["echo", "Hello World"]
+CMD ["echo", "Hello Worl"]
