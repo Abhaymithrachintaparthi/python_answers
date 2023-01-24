@@ -4,8 +4,5 @@ jobs:
   awscli:
     runs-on: ubuntu-latest
     steps:
-      - name: awscli-installation-command
-        run: sudo apt install vim
-      - name: check-version
-        run: vim --version
-  
+      - name: time
+        run: $date
