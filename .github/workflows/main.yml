@@ -33,4 +33,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: abhaymithrachintaparthi/nginx:latest
+          tags: abhaymithrachintaparthi/Dockerfile
