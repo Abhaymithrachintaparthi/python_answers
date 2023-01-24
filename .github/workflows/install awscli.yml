@@ -1,0 +1,11 @@
+name: Awscli Installation
+on: workflow_dispatch
+jobs:
+  awscli:
+    runs-on: ubuntu-latest
+    steps:
+      - name: awscli-installation-command
+        run: sudo apt install awscli
+      - name: check-version
+        run: awscli --version
+  
