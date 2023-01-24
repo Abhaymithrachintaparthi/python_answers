@@ -5,7 +5,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: awscli-installation-command
-        run: sudo apt install awscli
+        run: sudo apt install vim
       - name: check-version
-        run: awscli --version
+        run: vim --version
   
